@@ -4,9 +4,8 @@ body {
     height: 100vh;
     font-family: 'Playfair Display', serif;
     background: linear-gradient(135deg, #000000, #1a0000);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    padding-top: 40px
     color: #f5f5f5;
 }
 
@@ -44,7 +43,7 @@ body {
 
 /* TITLE */
 .title {
-    .title {
+    
         font-size: 4em;
         letter-spacing: 4px;
     
@@ -59,7 +58,6 @@ body {
     
         animation: glowPulse 3s infinite alternate;
     }
-}
 
 /* NAME */
 .name {
