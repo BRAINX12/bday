@@ -34,6 +34,7 @@ body {
 
 /* RIGHT TEXT */
 .right {
+    text-align: center;
     flex: 1;
     padding: 60px;
     display: flex;
